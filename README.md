@@ -2,6 +2,8 @@
 
 👀 I’m interested in Journalism, Machine Learning and Artificial Intelligence
 
-🌱 I’m currently learning Data Science and Python
+🌱 Currently learning Data Science and Python
+
+💻 Check out my current collaboration: [euoparl.ai](https://github.com/europarl-ai)
 
 📫 You can find more about me on my [webseite](Aneifer.de)
