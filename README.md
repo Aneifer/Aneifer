@@ -1,4 +1,4 @@
-👋 Hi, I’m @Aneifer
+👋 Hi, I’m Anna Neifer
 
 👀 I’m interested in Journalism, Machine Learning and Artificial Intelligence
 
