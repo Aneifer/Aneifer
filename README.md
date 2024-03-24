@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Data Science and Python
 
-📫 You can find more on my [webseite](Aneifer.de)
+📫 You can find more about me on my [webseite](Aneifer.de)
