@@ -4,6 +4,6 @@
 
 🌱 Currently learning Data Science and Python
 
-💻 Check out my current collaboration: [euoparl.ai](https://github.com/europarl-ai)
+💻 Check out my current project: [electify.eu](https://electify.eu)
 
 📫 You can find more about me on my [webseite](Aneifer.de)
