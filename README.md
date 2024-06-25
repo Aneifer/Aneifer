@@ -6,6 +6,6 @@
 
 🌱 Currently learning Data Science and Python
 
-💻 Check out my current project: [electify.eu](https://electify.eu)
+💻 Check out my current project: [electify.eu](https://electify.eu) or [Electify on Github](https://github.com/electify-eu) .
 
 📫 You can find more about me on my [webseite](Aneifer.de)
