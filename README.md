@@ -1,6 +1,6 @@
 👋 Hi, I’m Anna Neifer
 
-👀 I’m interested in Journalism, Machine Learning and Artificial Intelligence
+👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 
 🔍 Searching for projects at the intersection of AI, media, and education
 
