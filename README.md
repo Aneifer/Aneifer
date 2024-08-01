@@ -8,4 +8,4 @@
 
 💻 Check out my current project: [electify.eu](https://electify.eu) or [on Github](https://github.com/electify-eu) .
 
-📫 You can find more about me on my [webseite](Aneifer.de)
+📫 You can find more about me on my [webseite](https://Aneifer.de)
