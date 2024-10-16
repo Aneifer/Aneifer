@@ -4,6 +4,6 @@
 
 🔍 Searching for projects at the intersection of AI, media, and education
 
-💻 Check out my current project: [electify.eu](https://electify.eu) or [on Github](https://github.com/electify-eu) .
+💻 Check out my latest project: [electify.eu](https://electify.eu) or [on Github](https://github.com/electify-eu) .
 
 📫 You can find more about me on my [webseite](https://Aneifer.de)
